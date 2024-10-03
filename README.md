@@ -27,5 +27,6 @@ Pintar círculos en las posiciones del píxel más claro y oscuro de la imagen
 Con un par de bucles que recorran el frame detectamos cuales son las zonas con los pixeles mas claros y mas oscuros, ahí pintamos los puntos.
 
 # Tarea 6
-Llevar a cabo una propuesta propia de pop art
+Llevar a cabo una propuesta propia de pop art.
+
 Nuevo pop-art añadiendo mas planos, jugando con el orden de los canales y en algunos casos modificando su valor.
