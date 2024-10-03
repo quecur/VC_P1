@@ -8,7 +8,7 @@ Se divide el tablero en una matriz de 8X8 si la suma de los indices es par la ca
 # Tarea 2
 Crear una imagen estilo Mondrian (un ejemplo https://www3.gobiernodecanarias.org/medusa/ecoescuela/sa/2017/04/17/descubriendo-a-mondrian/ )
 
-Similar a la tarea 1 pero los rangos en los que se pintan son arbitrarios y desiguales, se deben definir en el código.
+Similar a la tarea 1 pero los rangos en los que se pinta son arbitrarios y desiguales, se deben definir en el código.
 
 # Tarea 3
 Resuelve una de las tareas previas (a elegir) con las funciones de dibujo de OpenCV  :)
